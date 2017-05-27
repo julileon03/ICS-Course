@@ -1,0 +1,8 @@
+puts "hours in a year"
+puts 24 * 365
+puts "minutes in a decade"
+puts 10 * 365 * 24 * 60
+puts "age in seconds"
+puts (18 * 365 * 24 * 3600) + (112 * 24 * 3600)
+puts "author's age"
+puts 1160000000 / (3600 * 24 * 365)
